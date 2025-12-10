@@ -2,11 +2,8 @@
 title: "Projects"
 ---
 
-## Project 1
-https://github.com/impolichetti/HW2_Repo.git
+## Project 1 https://github.com/impolichetti/HW2_Repo.git
 
-## Project 2
-https://github.com/impolichetti/airbnb_clone.git
+## Project 2 https://github.com/impolichetti/airbnb_clone.git
 
-## Project 3
-https://github.com/impolichetti/final_project.git
+## Project 3 https://github.com/impolichetti/final_project.git
