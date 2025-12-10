@@ -8,11 +8,14 @@ about:
 
 :::{#me}
 
-## Goals
+## Goals 
+My goal is to help create better social policies and  programs by using research data to create better systems that fit the needs of the community. I hope to combine research, passion, and analytics to support changes that make everyday life fairer and more supportive for everyone.
 
 ## Education
+I have a B.A. in Sociology, including a minor in Psychology. Now, I am pursuing a Master's degree in Data Analytics and Computational Social Science. 
 
 ## Experience
+I Have experience working in social research internships and labs. Most recently, I worked with a research group that studied Loneliness and Social Connection by conducting interviews with participants around the world to understand how loneliness can impact individuals mentally and physically. In this position, I helped organize and analyze qualitative interview data. 
 
 :::
 
